@@ -1,5 +1,5 @@
 # block-breaker
-Final Project for CS 371 - Mobile Computing class.
+Final Project for CS 371 - Mobile Computing class. This project was completed by Tony Montemuro and Owen Tiedemann.
 
 If you wish to play this game on Windows, please download the 'BlockBreaker.Win32' directory.
 
