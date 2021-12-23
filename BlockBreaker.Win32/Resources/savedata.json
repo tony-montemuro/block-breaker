@@ -1,0 +1,54 @@
+var savedata = [
+	{
+		"1": {
+			"Level": 1,
+			"Stars": 0,
+			"Unlocked": 1
+		},
+		"2": {	
+			"Level": 2,
+			"Stars": 0,
+			"Unlocked": 0
+		},
+		"3": {			
+			"Level": 3,
+			"Stars": 0,
+			"Unlocked": 0
+		},
+		"4": {			
+			"Level": 4,
+			"Stars": 0,
+			"Unlocked": 0
+		},
+		"5": {
+			"Level": 5,
+			"Stars": 0,
+			"Unlocked": 0
+		},
+		"6": {			
+			"Level": 6,
+			"Stars": 0,
+			"Unlocked": 0
+		},
+		"7": {			
+			"Level": 7,
+			"Stars": 0,
+			"Unlocked": 0
+		},
+		"8": {			
+			"Level": 8,
+			"Stars": 0,
+			"Unlocked": 0
+		},
+		"9": {			
+			"Level": 9,
+			"Stars": 0,
+			"Unlocked": 0
+		},
+		"10": {			
+			"Level": 10,
+			"Stars": 0,
+			"Unlocked": 0
+		},
+	}
+]
